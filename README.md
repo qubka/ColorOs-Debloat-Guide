@@ -1,10 +1,25 @@
-# 📱 How to Enable Google Services, Gboard & Google Wallet
+# ColorOs Debloat Chinese Content
+
+## 📑 Table of Contents
+
+- [📱 How to Enable Google Services, Gboard & Google Wallet](#-how-to-enable-google-services-gboard--google-wallet)
+  - [✅ 1. Enable Google Services (GMS)](#-1-enable-google-services-gms)
+  - [🎹 2. Set Up Gboard (Google Keyboard)](#-2-set-up-gboard-google-keyboard)
+  - [💳 3. Set Up Google Wallet (NFC Payments)](#-3-set-up-google-wallet-nfc-payments)
+- [🧹 How to Remove Chinese Content from Quick Glance](#-how-to-remove-chinese-content-from-quick-glance)
+- [🔍 How to Replace Chinese Global Search](#-how-to-replace-chinese-global-search)
+- [🔵 How to Enable Google Circle to Search](#-how-to-enable-google-circle-to-search)
+- [⏰ How to Fix Delayed Notifications & Allow Background Apps](#-how-to-fix-delayed-notifications--allow-background-apps)
+- [🛠️ More ColorOS Essentials](#-more-coloros-essentials)
+
+
+## 📱 How to Enable Google Services, Gboard & Google Wallet
 
 This guide helps you fully integrate Google's apps and services on Chinese ColorOS builds.
 
 ---
 
-## ✅ 1. Enable Google Services (GMS)
+### ✅ 1. Enable Google Services (GMS)
 
 1. Go to:  
    `Settings → System & Update → Google Settings`
@@ -17,7 +32,7 @@ This guide helps you fully integrate Google's apps and services on Chinese Color
 
 ---
 
-## 🎹 2. Set Up Gboard (Google Keyboard)
+### 🎹 2. Set Up Gboard (Google Keyboard)
 
 1. Open Google Play Store → Search and install **[Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)**
 2. Go to:  
@@ -30,7 +45,7 @@ This guide helps you fully integrate Google's apps and services on Chinese Color
 
 ---
 
-## 💳 3. Set Up Google Wallet (NFC Payments)
+### 💳 3. Set Up Google Wallet (NFC Payments)
 
 1. Install **[Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)** from Google Play
 2. Go to:  
@@ -44,7 +59,7 @@ You’re now ready to use Google services, input via Gboard, and tap to pay with
 
 ---
 
-# 🧹 How to Remove Chinese Content from Quick Glance
+## 🧹 How to Remove Chinese Content from Quick Glance
 
 If you're seeing Chinese content (like "trending news", Breeno, etc.) in your notification panel, here’s how to clean it up completely.
 
@@ -87,7 +102,7 @@ If you're seeing Chinese content (like "trending news", Breeno, etc.) in your no
 
 ---
 
-# 🔍 How to Replace Chinese Global Search
+## 🔍 How to Replace Chinese Global Search
 
 If your Global Search is still in Chinese, switch to the English version:
 
@@ -115,7 +130,7 @@ If your Global Search is still in Chinese, switch to the English version:
 
 ---
 
-# 🔵 How to Enable Google Circle to Search
+## 🔵 How to Enable Google Circle to Search
 
 Workaround using MiCTS and Google Assistant
 
@@ -164,7 +179,7 @@ Workaround using MiCTS and Google Assistant
 
 ---
 
-# ⏰ How to Fix Delayed Notifications & Allow Background Apps
+## ⏰ How to Fix Delayed Notifications & Allow Background Apps
 
 Tired of delayed app alerts? These steps keep apps alive and responsive.
 
@@ -220,7 +235,7 @@ If rooted, install **[FCMFix](https://github.com/kooritea/fcmfix)** Magisk modul
 
 ---
 
-# 🛠️ More ColorOS Essentials
+## 🛠️ More ColorOS Essentials
 
 ### 1. Disable Lock Screen Magazine
 
