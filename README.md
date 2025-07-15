@@ -10,7 +10,7 @@
 - [🔍 How to Replace Chinese Global Search](#-how-to-replace-chinese-global-search)
 - [🔵 How to Enable Google Circle to Search](#-how-to-enable-google-circle-to-search)
 - [⏰ How to Fix Delayed Notifications & Allow Background Apps](#-how-to-fix-delayed-notifications--allow-background-apps)
-- [🛠️ More ColorOS Essentials](#-more-coloros-essentials)
+- [🧰 More ColorOS Essentials](#-more-coloros-essentials)
 
 
 ## 📱 How to Enable Google Services, Gboard & Google Wallet
@@ -235,7 +235,7 @@ If rooted, install **[FCMFix](https://github.com/kooritea/fcmfix)** Magisk modul
 
 ---
 
-## 🛠️ More ColorOS Essentials
+## 🧰 More ColorOS Essentials
 
 ### 1. Disable Lock Screen Magazine
 
