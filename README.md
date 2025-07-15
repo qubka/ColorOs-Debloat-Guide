@@ -269,7 +269,7 @@ If rooted, install **[FCMFix](https://github.com/kooritea/fcmfix)** Magisk modul
 
 ---
 
-### ⚠️ Don't ADB Uninstall Critical System Apps!
+#### ⚠️ Don't ADB Uninstall Critical System Apps!
 
 Do **NOT** remove core apps like **Browser** or **App Market** via ADB  
 → May cause bootloops or OS instability
