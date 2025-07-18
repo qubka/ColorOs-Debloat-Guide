@@ -9,7 +9,7 @@
 - [🧹 How to Remove Chinese Content from Quick Glance](#-how-to-remove-chinese-content-from-quick-glance)
 - [🔍 How to Replace Chinese Global Search](#-how-to-replace-chinese-global-search)
 - [🔵 How to Enable Google Circle to Search](#-how-to-enable-google-circle-to-search)
-- [🌟 How to Enable Gemini Assistant](#-how-to-enable-gemini-assistant]
+- [🌟 How to Enable Gemini Assistant](#-how-to-enable-gemini-assistant)
 - [⏰ How to Fix Delayed Notifications & Allow Background Apps](#-how-to-fix-delayed-notifications--allow-background-apps)
 - [🧰 More ColorOS Essentials](#-more-coloros-essentials)
 
