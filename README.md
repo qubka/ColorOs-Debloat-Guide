@@ -202,8 +202,7 @@ Workaround using Gemini Trigger and custom gesture bindings
 
 3. Install from Google Play:
     - Google
-    - Google Voice Search
-    - Google Assistant
+    - Gemini
 
 4. Verify Gemini Assistant:
     - Open Google App → Profile → Settings → Google Assistant
@@ -215,7 +214,7 @@ Workaround using Gemini Trigger and custom gesture bindings
 5. If Gemini Trigger has issues:
     - Check troubleshooting guide on GitHub
 
-6. *(Optional)* Bind gesture to trigger Circle to Search
+6. *(Optional)* Bind gesture to trigger Gemini
     - Use **[Vivid N.G](https://play.google.com/store/apps/details?id=com.ivianuu.oneplusgestures)** (Play Store)
     - [Root] Use **Xposed Edge** via **Xposed Framework**
 
@@ -223,13 +222,12 @@ Workaround using Gemini Trigger and custom gesture bindings
    `Settings → Apps → Auto Launch`
     - Add:
         - Google
-        - Google Assistant
         - Gemini
         - Your gesture app (e.g., Vivid N.G)
 
    Also in your gesture app, enable background activity
 
-🎉 Enjoy Gemini Assistant with a custom trigger method!
+🎉 Enjoy Gemini functionality!
 
 ---
 
