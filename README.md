@@ -223,6 +223,7 @@ Workaround using Gemini Trigger and custom gesture bindings
     - Add:
         - Google
         - Gemini
+        - Gemini Trigger
         - Your gesture app (e.g., Vivid N.G)
 
    Also in your gesture app, enable background activity
