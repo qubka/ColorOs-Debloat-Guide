@@ -9,6 +9,7 @@
 - [🧹 How to Remove Chinese Content from Quick Glance](#-how-to-remove-chinese-content-from-quick-glance)
 - [🔍 How to Replace Chinese Global Search](#-how-to-replace-chinese-global-search)
 - [🔵 How to Enable Google Circle to Search](#-how-to-enable-google-circle-to-search)
+- [🌟 How to Enable Gemini Assistant](#-how-to-enable-gemini-assistant]
 - [⏰ How to Fix Delayed Notifications & Allow Background Apps](#-how-to-fix-delayed-notifications--allow-background-apps)
 - [🧰 More ColorOS Essentials](#-more-coloros-essentials)
 
@@ -158,6 +159,8 @@ Workaround using MiCTS and Google Assistant
     - Go to: **Digital Assistants from Google**
     - Ensure **Google Assistant** is selected (not Gemini)
 
+   Also repeat that every reboot
+
 5. If MiCTS has issues:
     - Check troubleshooting guide on GitHub
 
@@ -176,6 +179,57 @@ Workaround using MiCTS and Google Assistant
    Also in your gesture app, enable background activity
 
 🎉 Enjoy Circle to Search functionality!
+
+---
+
+## 🌟 How to Enable Gemini Assistant
+
+Workaround using Gemini Trigger and custom gesture bindings
+
+### Setup Steps:
+
+1. Disable all Breeno/AI stuff:  
+   `Settings → AI → Disable:`
+    - Breeno
+    - Breeno Suggestions
+    - Breeno Touch
+    - Breeno Memory
+    - AI Search
+    - AI Voice Subscribe
+
+2. Install **[Gemini Trigger](https://github.com/quocanh21081992/gemini-assistant-shortcut)**
+    - Download APK from the release page
+
+3. Install from Google Play:
+    - Google
+    - Google Voice Search
+    - Google Assistant
+
+4. Verify Gemini Assistant:
+    - Open Google App → Profile → Settings → Google Assistant
+    - Go to: **Digital Assistants from Google**
+    - Ensure **Gemini** is selected (not Google Assistant)
+
+   Also repeat that every **reboot**
+
+5. If Gemini Trigger has issues:
+    - Check troubleshooting guide on GitHub
+
+6. *(Optional)* Bind gesture to trigger Circle to Search
+    - Use **[Vivid N.G](https://play.google.com/store/apps/details?id=com.ivianuu.oneplusgestures)** (Play Store)
+    - [Root] Use **Xposed Edge** via **Xposed Framework**
+
+7. **Post-Setup Configuration:**  
+   `Settings → Apps → Auto Launch`
+    - Add:
+        - Google
+        - Google Assistant
+        - Gemini
+        - Your gesture app (e.g., Vivid N.G)
+
+   Also in your gesture app, enable background activity
+
+🎉 Enjoy Gemini Assistant with a custom trigger method!
 
 ---
 
