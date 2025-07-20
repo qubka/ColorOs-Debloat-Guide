@@ -101,6 +101,8 @@ If you're seeing Chinese content (like "trending news", Breeno, etc.) in your no
 
 ⚠️ *Note: Some widgets still contain Chinese text, but most essentials are translated.*
 
+❗ *Error: This method may not work on some versions of ColorOS.*
+
 ---
 
 ## 🔍 How to Replace Chinese Global Search
